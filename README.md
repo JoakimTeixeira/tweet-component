@@ -7,6 +7,7 @@ Project to test React state and props
 ## To-do
 
 - [ ] Refactor component states for better atomicity
+- [ ] Improve responsiveness
 
 ## Running the Project
 
